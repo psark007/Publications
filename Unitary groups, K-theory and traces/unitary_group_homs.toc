@@ -1,0 +1,15 @@
+\babel@toc {nil}{}\relax 
+\contentsline {section}{\tocsection {}{1}{Introduction}}{1}{section.1}%
+\setcounter {tocdepth}{0}
+\contentsline {section}{\tocsection {}{}{Acknowledgements}}{4}{section*.2}%
+\setcounter {tocdepth}{1}
+\contentsline {section}{\tocsection {}{2}{Preliminaries and notation}}{4}{section.2}%
+\contentsline {subsection}{\tocsubsection {}{2.1}{Notation}}{4}{subsection.2.1}%
+\contentsline {subsection}{\tocsubsection {}{2.2}{The de la Harpe--Skandalis determinant and Thomsen's variant}}{5}{subsection.2.2}%
+\contentsline {subsection}{\tocsubsection {}{2.3}{Thomsen's variant}}{8}{subsection.2.3}%
+\contentsline {subsection}{\tocsubsection {}{2.4}{The $KT_u$-invariant}}{9}{subsection.2.4}%
+\contentsline {section}{\tocsection {}{3}{Continuous unitary group homomorphisms and traces}}{9}{section.3}%
+\contentsline {section}{\tocsection {}{4}{The order on $\Aff T(\cdot )$}}{19}{section.4}%
+\contentsline {section}{\tocsection {}{5}{A slight general linear variant}}{25}{section.5}%
+\contentsline {section}{\tocsection {}{6}{Final remarks and open questions}}{28}{section.6}%
+\contentsline {section}{\tocsection {}{}{References}}{29}{section*.3}%

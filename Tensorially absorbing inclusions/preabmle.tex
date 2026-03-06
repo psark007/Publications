@@ -1,0 +1,52 @@
+% change this depending on what you're doing.
+%\documentclass[11pt]{amsart}
+
+%packages
+%\usepackage[margin=1.5in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[pdftex]{graphicx}
+\usepackage{tikz-cd}
+\usepackage{blindtext}
+
+\usepackage{hyperref,xcolor}
+\usepackage{amsmath,amsfonts,amssymb,amsthm,color,mathtools,enumitem}
+\usepackage{epstopdf}
+\usepackage{polynom}
+\usepackage{babel}
+\usepackage{mathrsfs}
+\usepackage{chngcntr}
+\usepackage{verbatim}
+\usepackage{hyphenat}
+ 
+
+\hypersetup{
+	colorlinks=true,
+	linkcolor=blue,
+	citecolor=cyan,
+	urlcolor=cyan}
+
+  %theorems
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{defn}[theorem]{Definition}
+\newtheorem{prop}[theorem]{Proposition}
+\newtheorem{cor}[theorem]{Corollary}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{remark}[theorem]{Remark}
+
+\newtheorem*{resultA}{Theorem A}
+\newtheorem*{resultB}{Theorem B}
+\newtheorem*{resultC}{Theorem C}
+\newtheorem*{resultD}{Theorem D}
+\newtheorem*{resultE}{Theorem E}
+\newtheorem*{resultF}{Theorem F}
+
+%\newtheorem{result}{Theorem}[chapter]
+\newtheorem{result}{Theorem}
+%\renewcommand*{\theresult}{\arabic{chapter}.\Alph{result}}
+\renewcommand*{\theresult}{\Alph{result}}
+\newtheorem{resultcor}[result]{Corollary}
+
+\numberwithin{equation}{section}
+

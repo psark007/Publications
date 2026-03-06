@@ -1,0 +1,127 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{CGS{\etalchar{+}}23}
+
+\bibitem[AS00]{AguilarSocolovsky00}
+Marcelo~A. Aguilar and Miguel Socolovsky, \emph{Universal covering group of
+  {${\rm U}(n)$} and projective representations}, Internat. J. Theoret. Phys.
+  \textbf{39} (2000), no.~4, 997--1013. \MR{1779169}
+
+\bibitem[ASS71]{ArakiSmithSmith71}
+Huzihiro Araki, Mi-Soo~B. Smith, and Larry Smith, \emph{On the homotopical
+  significance of the type of von {N}eumann algebra factors}, Comm. Math. Phys.
+  \textbf{22} (1971), 71--88. \MR{288587}
+
+\bibitem[Bre70]{Breuer70}
+M.~Breuer, \emph{On the homotopy type of the group of regular elements of
+  semifinite von {N}eumann algebras}, Math. Ann. \textbf{185} (1970), 61--74.
+  \MR{264408}
+
+\bibitem[Bro67]{Broise67}
+Michel Broise, \emph{Commutateurs dans le groupe unitaire d'un facteur}, J.
+  Math. Pures Appl. (9) \textbf{46} (1967), 299--312. \MR{223900}
+
+\bibitem[BW76]{BruningWillgerodt76}
+Jochen Br\"uning and Wolfgang Willgerodt, \emph{Eine {V}erallgemeinerung eines
+  {S}atzes von {N}. {K}uiper}, Math. Ann. \textbf{220} (1976), no.~1, 47--58.
+  \MR{405483}
+
+\bibitem[CGS{\etalchar{+}}23]{CGSTW23}
+Jos{\'e}~R. Carri{\'o}n, James Gabe, Christopher Schafhauser, Aaron Tikuisis,
+  and Stuart White, \emph{Classifying *-homomorphisms {I}: unital simple
+  nuclear {C}*-algebras}, arXiv:2307.06480 (2023).
+
+\bibitem[dlH13]{dlHarpe13}
+Pierre de~la Harpe, \emph{Fuglede--{K}adison determinant: theme and
+  variations}, Proc. Natl. Acad. Sci. USA \textbf{110} (2013), no.~40,
+  15864--15877. \MR{3363445}
+
+\bibitem[dlHM83]{dlHarpeMcDuff83}
+Pierre de~la Harpe and Dusa McDuff, \emph{Acyclic groups of automorphisms},
+  Comment. Math. Helv. \textbf{58} (1983), no.~1, 48--71. \MR{699006}
+
+\bibitem[dlHS84]{dlHS84a}
+Pierre de~la Harpe and Georges Skandalis, \emph{D\'{e}terminant associ\'{e} \`a
+  une trace sur une alg\'{e}bre de {B}anach}, Ann. Inst. Fourier (Grenoble)
+  \textbf{34} (1984), no.~1, 241--260. \MR{743629}
+
+\bibitem[FdlH80]{FackdlHarpe80}
+Thierry Fack and Pierre de~la Harpe, \emph{Sommes de commutateurs dans les
+  alg\`ebres de von {N}eumann finies continues}, Ann. Inst. Fourier (Grenoble)
+  \textbf{30} (1980), no.~3, 49--73. \MR{597017}
+
+\bibitem[FK52]{FugledeKadison52}
+Bent Fuglede and Richard~V. Kadison, \emph{Determinant theory in finite
+  factors}, Ann. of Math. (2) \textbf{55} (1952), 520--530. \MR{52696}
+
+\bibitem[Han78]{Handelman78}
+David Handelman, \emph{{$K_0$} of von {N}eumann and {AF} {C}*-algebras}, Quart.
+  J. Math. Oxford Ser. (2) \textbf{29} (1978), no.~116, 427--441. \MR{517736}
+
+\bibitem[Hat02]{HatcherAT}
+Allen Hatcher, \emph{Algebraic topology}, Cambridge University Press,
+  Cambridge, 2002. \MR{1867354}
+
+\bibitem[JS99]{JiangSu99}
+Xinhui Jiang and Hongbing Su, \emph{On a simple unital projectionless
+  {C}*-algebra}, Amer. J. Math. \textbf{121} (1999), no.~2, 359--413.
+  \MR{1680321}
+
+\bibitem[Ker70]{Kervaire70}
+Michel~A. Kervaire, \emph{Multiplicateurs de schur et k-th{\'e}orie},
+  pp.~212--225, Springer Berlin Heidelberg, Berlin, Heidelberg, 1970.
+
+\bibitem[KR86]{KadisonRingroseII}
+Richard~V. Kadison and John~R. Ringrose, \emph{Fundamentals of the theory of
+  operator algebras. {V}ol. {II}}, Pure and Applied Mathematics, vol. 100,
+  Academic Press, Inc., Orlando, FL, 1986, Advanced theory. \MR{859186}
+
+\bibitem[Kui65]{Kuiper65}
+Nicolaas~H. Kuiper, \emph{The homotopy type of the unitary group of {H}ilbert
+  space}, Topology \textbf{3} (1965), 19--30. \MR{179792}
+
+\bibitem[NT96]{NielsenThomsen96}
+Karen~E. Nielsen and Klaus Thomsen, \emph{Limits of circle algebras},
+  Exposition. Math. \textbf{14} (1996), no.~1, 17--56. \MR{1382013}
+
+\bibitem[Rie87]{Rieffel87}
+Marc~A. Rieffel, \emph{The homotopy groups of the unitary groups of
+  noncommutative tori}, J. Operator Theory \textbf{17} (1987), no.~2, 237--254.
+  \MR{887221}
+
+\bibitem[RLL00]{RordamKBook}
+Mikael R{\o}rdam, Flemming Larsen, and Niels~J. Laustsen, \emph{An introduction
+  to {K}-theory for {C}*-algebras}, London Mathematical Society Student Texts,
+  vol.~49, Cambridge University Press, Cambridge, 2000. \MR{1783408}
+
+\bibitem[Rot88]{RotmanATBook}
+Joseph~J. Rotman, \emph{An introduction to algebraic topology}, Graduate Texts
+  in Mathematics, vol. 119, Springer-Verlag, New York, 1988. \MR{957919}
+
+\bibitem[Sch84a]{Schroder84real}
+Herbert Schr{\"o}der, \emph{On the homotopy type of the regular group of a real
+  {W}*-algebra}, Integral Equations and Operator Theory \textbf{9} (1984),
+  694--705.
+
+\bibitem[Sch84b]{Schroder84}
+\bysame, \emph{On the homotopy type of the regular group of a {W}*-algebra.},
+  Mathematische Annalen \textbf{267} (1984), 271--278.
+
+\bibitem[Tak02]{TakesakiI}
+Masamichi Takesaki, \emph{Theory of operator algebras. {I}}, Encyclopaedia of
+  Mathematical Sciences, vol. 124, Springer-Verlag, Berlin, 2002, Reprint of
+  the first (1979) edition, Operator Algebras and Non-commutative Geometry, 5.
+  \MR{1873025}
+
+\bibitem[Tho95]{Thomsen95}
+Klaus Thomsen, \emph{Traces, unitary characters and crossed products by
+  {$\mathbb{Z}$}}, Publ. Res. Inst. Math. Sci. \textbf{31} (1995), no.~6,
+  1011--1029. \MR{1382564}
+
+\end{thebibliography}
