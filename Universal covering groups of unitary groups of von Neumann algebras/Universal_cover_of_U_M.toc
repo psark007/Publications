@@ -1,0 +1,11 @@
+\babel@toc {nil}{}\relax 
+\contentsline {section}{\tocsection {}{1}{Introduction}}{1}{section.1}%
+\setcounter {tocdepth}{0}
+\contentsline {section}{\tocsection {}{}{Acknowledgements}}{2}{section*.2}%
+\setcounter {tocdepth}{1}
+\contentsline {section}{\tocsection {}{2}{Preliminaries}}{3}{section.2}%
+\contentsline {subsection}{\tocsubsection {}{2.1}{Notation}}{3}{subsection.2.1}%
+\contentsline {subsection}{\tocsubsection {}{2.2}{The pre-determinant}}{4}{subsection.2.2}%
+\contentsline {subsection}{\tocsubsection {}{2.3}{Covering spaces}}{6}{subsection.2.3}%
+\contentsline {section}{\tocsection {}{3}{The universal covering group of $U(\mathcal {M})$}}{7}{section.3}%
+\contentsline {section}{\tocsection {}{}{References}}{9}{section*.3}%

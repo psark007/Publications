@@ -1,0 +1,202 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{ARBG12}
+
+\bibitem[AM03]{AraMathieubook}
+Pere Ara and Martin Mathieu, \emph{Local multipliers of {C}*-algebras},
+  Springer Monographs in Mathematics, Springer-Verlag London, Ltd., London,
+  2003. \MR{1940428}
+
+\bibitem[ARBG12]{AlBoothGiordano12}
+Ahmed Al-Rawashdeh, Andrew Booth, and Thierry Giordano, \emph{Unitary groups as
+  a complete invariant}, J. Funct. Anal. \textbf{262} (2012), no.~11,
+  4711--4730. \MR{2913684}
+
+\bibitem[Boo98]{Booth98}
+Andrew Booth, \emph{The unitary group as a complete invariant for simple unital
+  {AF} algebras}, Master's thesis, University of Ottawa (Canada), 1998.
+
+\bibitem[Bre93]{Bresar93}
+Matej Bre\v{s}ar, \emph{Commuting traces of biadditive mappings,
+  commutativity-preserving mappings and {L}ie mappings}, Trans. Amer. Math.
+  Soc. \textbf{335} (1993), no.~2, 525--546. \MR{1069746}
+
+\bibitem[CET{\etalchar{+}}21]{CETWW21}
+Jorge Castillejos, Samuel Evington, Aaron Tikuisis, Stuart White, and Wilhelm
+  Winter, \emph{Nuclear dimension of simple {C}*-algebras}, Invent. Math.
+  \textbf{224} (2021), no.~1, 245--290. \MR{4228503}
+
+\bibitem[CGS{\etalchar{+}}23]{CGSTW23}
+Jos{\'e}~R. Carri{\'o}n, James Gabe, Christopher Schafhauser, Aaron Tikuisis,
+  and Stuart White, \emph{Classifying *-homomorphisms {I}: Unital simple
+  nuclear {C}*-algebras}, arXiv:2307.06480 (2023).
+
+\bibitem[Con85]{Conway19}
+John~B. Conway, \emph{A course in functional analysis}, Graduate Texts in
+  Mathematics, vol.~96, Springer-Verlag, New York, 1985. \MR{768926}
+
+\bibitem[CP79]{CuntzPedersen79}
+Joachim Cuntz and Gert~K. Pedersen, \emph{Equivalence and traces on
+  {C}*-algebras}, Journal of Functional Analysis \textbf{33} (1979), no.~2,
+  135--164.
+
+\bibitem[CR23]{ChandRobert23}
+Abhinav Chand and Leonel Robert, \emph{Simplicity, bounded normal generation,
+  and automatic continuity of groups of unitaries}, Adv. Math. \textbf{415}
+  (2023), Paper No. 108894, 52. \MR{4543451}
+
+\bibitem[Dad95]{Dadarlat95}
+Marius Dadarlat, \emph{Reduction to dimension three of local spectra of real
+  rank zero {C}*-algebras}, J. Reine Angew. Math. \textbf{460} (1995),
+  189--212. \MR{1316577}
+
+\bibitem[dlH13]{dlHarpe13}
+Pierre de~la Harpe, \emph{Fuglede--{K}adison determinant: theme and
+  variations}, Proc. Natl. Acad. Sci. USA \textbf{110} (2013), no.~40,
+  15864--15877. \MR{3363445}
+
+\bibitem[dlHS84a]{dlHS84a}
+Pierre de~la Harpe and Georges Skandalis, \emph{D\'{e}terminant associ\'{e} \`a
+  une trace sur une alg\'{e}bre de {B}anach}, Ann. Inst. Fourier (Grenoble)
+  \textbf{34} (1984), no.~1, 241--260. \MR{743629}
+
+\bibitem[dlHS84b]{dlHS84b}
+\bysame, \emph{Produits finis de commutateurs dans les {C}*-alg\`ebres}, Ann.
+  Inst. Fourier (Grenoble) \textbf{34} (1984), no.~4, 169--202. \MR{766279}
+
+\bibitem[Dye53]{Dye53}
+H.~A. Dye, \emph{The unitary structure in finite rings of operators}, Duke
+  Math. J. \textbf{20} (1953), 55--69. \MR{52695}
+
+\bibitem[Dye55]{Dye55}
+\bysame, \emph{On the geometry of projections in certain operator algebras},
+  Ann. of Math. (2) \textbf{61} (1955), 73--89. \MR{66568}
+
+\bibitem[EGLN15]{EGLN15}
+George~A. Elliott, Guihua Gong, H.~Lin, and Zhuang Niu, \emph{On the
+  classification of simple amenable {C}*-algebras with finite decomposition
+  rank, {II}}, arXiv:1507.03437 (2015).
+
+\bibitem[Fol16]{Follandbook16}
+Gerald~B. Folland, \emph{A course in abstract harmonic analysis}, second ed.,
+  Textbooks in Mathematics, CRC Press, Boca Raton, FL, 2016. \MR{3444405}
+
+\bibitem[GLN20a]{GongLinNiu20I}
+Guihua Gong, Huaxin Lin, and Zhuang Niu, \emph{A classification of finite
+  simple amenable $\mathcal{Z}$-stable {C}*-algebras, {I}: {C}*-algebras with
+  generalized tracial rank one}, C. R. Math. Acad. Sci. Soc. R. Can.
+  \textbf{42} (2020), no.~3, 63--450. \MR{4215379}
+
+\bibitem[GLN20b]{GongLinNiu20II}
+\bysame, \emph{A classification of finite simple amenable $\mathcal{Z}$-stable
+  {C}*-algebras, {II}: {C}*-algebras with rational generalized tracial rank
+  one}, C. R. Math. Acad. Sci. Soc. R. Can. \textbf{42} (2020), no.~4,
+  451--539. \MR{4215380}
+
+\bibitem[Gon97]{Gong97}
+Guihua Gong, \emph{On inductive limits of matrix algebras over
+  higher-dimensional spaces. {I}, {II}}, Math. Scand. \textbf{80} (1997),
+  no.~1, 41--55, 56--100. \MR{1466905}
+
+\bibitem[Goo86]{Goodearlbook}
+Kenneth~R. Goodearl, \emph{Partially ordered abelian groups with
+  interpolation}, Mathematical Surveys and Monographs, vol.~20, American
+  Mathematical Society, Providence, RI, 1986. \MR{845783}
+
+\bibitem[GS16]{GiordanoSierakowski16}
+Thierry Giordano and Adam Sierakowski, \emph{The general linear group as a
+  complete invariant for {C}*-algebras}, J. Operator Theory \textbf{76} (2016),
+  no.~2, 249--269. \MR{3552377}
+
+\bibitem[Hal15]{HallBook}
+Brian Hall, \emph{Lie groups, {L}ie algebras, and representations}, second ed.,
+  Graduate Texts in Mathematics, vol. 222, Springer, Cham, 2015, An elementary
+  introduction. \MR{3331229}
+
+\bibitem[HM14]{HatoriMolnar14}
+Osamu Hatori and Lajos Moln\'{a}r, \emph{Isometries of the unitary groups and
+  {T}hompson isometries of the spaces of invertible positive elements in
+  {C}*-algebras}, J. Math. Anal. Appl. \textbf{409} (2014), no.~1, 158--167.
+  \MR{3095026}
+
+\bibitem[Jia97]{Jiang97}
+Xinhui Jiang, \emph{Nonstable {K}-theory for $\mathcal{Z}$-stable
+  {C}*-algebras}, arXiv preprint math/9707228 (1997).
+
+\bibitem[Ng14]{Ng14}
+Ping~W. Ng, \emph{The kernel of the determinant map on certain simple
+  {C}*-algebras}, J. Operator Theory \textbf{71} (2014), no.~2, 341--379.
+  \MR{3214642}
+
+\bibitem[NR17]{NgRobert17}
+Ping~W. Ng and Leonel Robert, \emph{The kernel of the determinant map on pure
+  {C}*-algebras}, Houston J. Math. \textbf{43} (2017), no.~1, 139--168.
+  \MR{3647937}
+
+\bibitem[Pat83]{Paterson83}
+Alan L.~T. Paterson, \emph{Harmonic analysis on unitary groups}, J. Funct.
+  Anal. \textbf{53} (1983), no.~3, 203--223. \MR{724026}
+
+\bibitem[Pau02]{Paulsenbook}
+Vern Paulsen, \emph{Completely bounded maps and operator algebras}, Cambridge
+  Studies in Advanced Mathematics, vol.~78, Cambridge University Press,
+  Cambridge, 2002. \MR{1976867}
+
+\bibitem[Phi92]{Phillips92}
+N.~Christopher Phillips, \emph{The rectifiable metric on the space of
+  projections in a {C}*-algebra}, Internat. J. Math. \textbf{3} (1992), no.~5,
+  679--698. \MR{1189681}
+
+\bibitem[Phi00]{Phillips00}
+\bysame, \emph{A classification theorem for nuclear purely infinite simple
+  {C}*-algebras}, Doc. Math. \textbf{5} (2000), 49--114. \MR{1745197}
+
+\bibitem[Rie87]{Rieffel87}
+Marc~A. Rieffel, \emph{The homotopy groups of the unitary groups of
+  noncommutative tori}, J. Operator Theory \textbf{17} (1987), no.~2, 237--254.
+  \MR{887221}
+
+\bibitem[RLL00]{RordamKBook}
+Mikael R{\o}rdam, Flemming Larsen, and Niels~J. Laustsen, \emph{An introduction
+  to {K}-theory for {C}*-algebras}, London Mathematical Society Student Texts,
+  vol.~49, Cambridge University Press, Cambridge, 2000. \MR{1783408}
+
+\bibitem[R{\o}r02]{RordamBook}
+Mikael R{\o}rdam, \emph{Classification of nuclear, simple {C}*-algebras},
+  Classification of nuclear {C}*-algebras. {E}ntropy in operator algebras,
+  Encyclopaedia Math. Sci., vol. 126, Springer, Berlin, 2002, pp.~1--145.
+  \MR{1878882}
+
+\bibitem[Sak55]{Sakai55}
+Sh\^{o}ichir\^{o} Sakai, \emph{On the group isomorphism of unitary groups in
+  {AW}*-algebras}, Tohoku Math. J. (2) \textbf{7} (1955), 87--95. \MR{73139}
+
+\bibitem[Sak12]{Sakaibook}
+\bysame, \emph{{C}*-algebras and {W}*-algebras}, Springer Science \& Business
+  Media, 2012.
+
+\bibitem[Sch84]{SchochetIV}
+Claude Schochet, \emph{Topological methods for {C}*-algebras. {IV}. {M}od {$p$}
+  homology}, Pacific J. Math. \textbf{114} (1984), no.~2, 447--468. \MR{757511}
+
+\bibitem[Tho93]{Thomsen93}
+Klaus Thomsen, \emph{Finite sums and products of commutators in inductive limit
+  {C}*-algebras}, Ann. Inst. Fourier (Grenoble) \textbf{43} (1993), no.~1,
+  225--249. \MR{1209702}
+
+\bibitem[Tho95]{Thomsen95}
+\bysame, \emph{Traces, unitary characters and crossed products by
+  {$\mathbb{Z}$}}, Publ. Res. Inst. Math. Sci. \textbf{31} (1995), no.~6,
+  1011--1029. \MR{1382564}
+
+\bibitem[Yen56]{Yen56}
+Ti~Yen, \emph{Isomorphism of unitary groups in {AW}*-algebras}, Tohoku Math. J.
+  (2) \textbf{8} (1956), 275--280. \MR{89376}
+
+\end{thebibliography}
