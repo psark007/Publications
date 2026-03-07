@@ -1,4 +1,4 @@
-This is a list of my publications. I have included LaTeX code for preprint versions of my solo papers. You can get LaTeX source code from arxiv yourself by:
+This is a list of my publications. I have included LaTeX code for preprint versions of my solo papers. You can get LaTeX source code from other papers from arxiv by:
 - going to the associated arxiv link,
 - looking at the right hand side of the page, under "Access Paper:"
 - clicking "TeX Source".   
