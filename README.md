@@ -11,3 +11,9 @@ This is a list of my publications. I have included LaTeX code for preprint versi
 <li><i>Tensorially absorbing inclusions of C*-algebras</i>. Canadian Journal of Mathematics (2024). <a href="https://doi.org/10.4153/S0008414X24000324">doi:10.4153/S0008414X24000324</a> (arxiv preprint: <a href="https://arxiv.org/abs/2211.14974">2211.14974</a>)</li>
 <li><i>Unitary groups, K-theory and traces</i>. Glasgow Mathematical Journal (2023). <a href="https://doi.org/10.1017/S0017089523000447">doi:10.1017/S0017089523000447</a> (arxiv preprint: <a href="https://arxiv.org/abs/2305.15989">2305.15989</a>)</li>
 </ol>
+
+
+--- 
+
+The final published versions of these papers are copyrighted by the respective publishers.
+This repository contains author-prepared LaTeX sources corresponding to the arXiv versions.
