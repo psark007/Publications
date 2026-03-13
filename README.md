@@ -15,5 +15,10 @@ This is a list of my publications. I have included LaTeX code for preprint versi
 
 --- 
 
+# License
+
+Unless otherwise stated, the LaTeX source files in this repository are licensed under
+the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
 The final published versions of these papers are copyrighted by the respective publishers.
 This repository contains author-prepared LaTeX sources corresponding to the arXiv versions.
